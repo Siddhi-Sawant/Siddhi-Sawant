@@ -1,7 +1,7 @@
 package Statement;
 import java.util.Scanner;
 
-public class ifelseifLadder 
+public class IfelseifLadder 
 {
 
 	public static void main(String[] args) 

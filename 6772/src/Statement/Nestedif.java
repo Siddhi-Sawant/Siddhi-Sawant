@@ -1,7 +1,7 @@
 package Statement;
 import java.util.Scanner;
 
-public class nestedif 
+public class Nestedif 
 {
 
 	public static void main(String[] args) 

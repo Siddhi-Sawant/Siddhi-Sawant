@@ -3,7 +3,7 @@ package Statement;
 
 import java.util.Scanner;
 
-public class simpleif
+public class Simpleif
 {
 
 	public static void main(String[] args) 
